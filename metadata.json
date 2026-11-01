@@ -1,0 +1,6 @@
+{
+  "name": "AI Chat",
+  "description": "A full-featured ChatGPT-style AI assistant with streaming text chat, image generation, voice input, and conversation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
